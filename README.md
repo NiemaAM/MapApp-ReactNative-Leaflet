@@ -35,5 +35,3 @@ A Mobile Map Apllication Created With React Native Expo CLI, Leaflet and OpenStr
 <picture>
   <img alt="page" src="https://drive.google.com/uc?id=1Mp-VCcApbXydcPM1qMGUb9v7fN7CfwvW" height="500px">
 </picture>
-
-<h3>Link for the demo</h3>
